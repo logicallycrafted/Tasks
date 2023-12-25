@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6e3418c-6374-4c7e-9af0-2668eb1f5465" name="Changes" comment="regex added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tasklist/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tasklist/TaskTest.java" afterDir="false" />
+    <list default="true" id="f6e3418c-6374-4c7e-9af0-2668eb1f5465" name="Changes" comment="updated module-info.java file to require java.sql and added sql dependency in maven">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tasklist/DBUtility.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -231,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703485653659</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated module-info.java file to require java.sql and added sql dependency in maven">
+      <option name="closed" value="true" />
+      <created>1703489235789</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703489235789</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -239,6 +244,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="regex added" />
-    <option name="LAST_COMMIT_MESSAGE" value="regex added" />
+    <MESSAGE value="updated module-info.java file to require java.sql and added sql dependency in maven" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated module-info.java file to require java.sql and added sql dependency in maven" />
   </component>
 </project>
